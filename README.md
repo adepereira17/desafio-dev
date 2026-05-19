@@ -5,4 +5,4 @@ Repositório criado para os meus alunos praticarem lógica de programação com 
 ## Sumário de Desafios
 | Código | Título | Nível | Python | JavaScript |
 | :---: | :---: | :---: | :---: | :---: |
-| #01 | [A Soma Oculta](./01-A-Soma-Oculta) | Iniciante | [Ver](./01-A-Soma-Oculta/solucao.py) | [ver]('./01-A-Soma-Oculta/solucao.js')
+| #01 | [A Soma Oculta](./01-A-Soma-Oculta) | Iniciante | [Ver](./01-A-Soma-Oculta/solucao.py) | [ver](./01-A-Soma-Oculta/solucao.js)
